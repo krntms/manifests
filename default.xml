@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="vip1_docs" fetch="ssh://192.168.5.100:29419/projects/dctk_vip1_docs" />
+	<remote name="test_sample" fetch="ssh://192.168.5.100:29419/projects/test_sample" />
+	<project path="vip1_docs" name="vip1_docs" remote="vip1_docs" revision="master" />
+	<project path="test_sample" name="test_sample" remote="test_sample" revision="master" />
+</manifest>
