@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="krntms" fetch="https://github.com:krntms/learning.git" />
+	<remote name="krntms" fetch="https://github.com/krntms/manifests.git" />
 	<project path="learning" name="learning" remote="krntms" revision="master" />
 </manifest>
