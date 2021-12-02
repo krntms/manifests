@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="kk" fetch="." />
-	<project path="learning" name="learning" remote="kk" revision="master" />
+	<remote name="github" fetch="." />
+	<project path="learning" name="learning" remote="github" revision="master" />
+	<project path="test" name="test" remote="github" revision="master" />
 </manifest>
